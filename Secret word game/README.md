@@ -1,1 +1,1 @@
-# Python
+# Secret word game
